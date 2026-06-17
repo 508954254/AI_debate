@@ -181,7 +181,6 @@ AI辩论赛/
 
 | 变量 | 说明 | 默认值 |
 |------|------|--------|
-| `API_BASE_URL` | 中转站 API 地址 | `https://globalai.vip` |
 | `API_KEY` | API 密钥 | (见源文件) |
 | `DEFAULT_MODEL_PRO` | 正方默认模型 | `gpt-5.5` |
 | `DEFAULT_MODEL_CON` | 反方默认模型 | `claude-opus-4-8` |
