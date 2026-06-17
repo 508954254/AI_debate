@@ -3,10 +3,10 @@
 """
 
 # 中转站 API 地址（OpenAI 兼容格式）
-API_BASE_URL = "https://globalai.vip"
+API_BASE_URL = ""
 
 # 中转站 API Key
-API_KEY = "sk-bRTjhWPIAJe12Je7D7Hl5aZbgGcaKxwJSMyIwK55VjGHNK86"
+API_KEY = ""
 
 # 默认模型配置（前端可覆盖）
 DEFAULT_MODEL_PRO = "gpt-5.5"              # 正方默认模型
